@@ -1,0 +1,5 @@
+Course Schedule
+---------------
+PHYS112 Lecture 1 (T/R) from 14:00 - 16:40, 14:00 - 16:40 with Isma'El Mohummad Daoud Badran
+ENCS2340 Lecture 1 (M/T/W/R) from 09:20 - 10:30, 09:20 - 10:30, 09:20 - 10:30, 09:20 - 10:30 with Aziz Mohammed Ahmad Qaroush
+COMP233 Lecture 1 (M/T/W/R) from 14:00 - 15:10, 14:00 - 15:10, 14:00 - 15:10, 14:00 - 15:10 with Radi A. R. Jarrar
